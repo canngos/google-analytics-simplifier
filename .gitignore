@@ -4,6 +4,7 @@ build/
 !gradle/wrapper/gradle-wrapper.jar
 !**/src/main/**/build/
 !**/src/test/**/build/
+analytics-simplifier-545dfb49c2b8.json
 
 ### STS ###
 .apt_generated
